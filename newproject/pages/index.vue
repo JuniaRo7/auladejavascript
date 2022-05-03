@@ -12,6 +12,7 @@
 
 <script>
 export default {
+  name: 'IndexPage',
   data: function(){
     return{
       titulo: "Lista de pessoas e idades", 
